@@ -1,0 +1,14 @@
+E:\Learning\CSharp\pdfUtils\PdfUtils\PdfUtils\bin\Debug\Tools\SumatraPDF.exe
+E:\Learning\CSharp\pdfUtils\PdfUtils\PdfUtils\bin\Debug\6ab706f4-fe02-4155-b831-83fd75255b68.pdf
+E:\Learning\CSharp\pdfUtils\PdfUtils\PdfUtils\bin\Debug\电子票.pdf
+E:\Learning\CSharp\pdfUtils\PdfUtils\PdfUtils\bin\Debug\PdfUtils.exe
+E:\Learning\CSharp\pdfUtils\PdfUtils\PdfUtils\bin\Debug\PdfUtils.pdb
+E:\Learning\CSharp\pdfUtils\PdfUtils\PdfUtils\bin\Debug\itextsharp.dll
+E:\Learning\CSharp\pdfUtils\PdfUtils\PdfUtils\bin\Debug\Spire.License.dll
+E:\Learning\CSharp\pdfUtils\PdfUtils\PdfUtils\bin\Debug\Spire.Pdf.dll
+E:\Learning\CSharp\pdfUtils\PdfUtils\PdfUtils\bin\Debug\Microsoft.mshtml.dll
+E:\Learning\CSharp\pdfUtils\PdfUtils\PdfUtils\bin\Debug\itextsharp.xml
+E:\Learning\CSharp\pdfUtils\PdfUtils\PdfUtils\bin\Debug\Spire.License.xml
+E:\Learning\CSharp\pdfUtils\PdfUtils\PdfUtils\bin\Debug\Spire.Pdf.xml
+E:\Learning\CSharp\pdfUtils\PdfUtils\PdfUtils\obj\Debug\PdfUtils.exe
+E:\Learning\CSharp\pdfUtils\PdfUtils\PdfUtils\obj\Debug\PdfUtils.pdb
