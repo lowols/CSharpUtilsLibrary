@@ -2,3 +2,8 @@ E:\Learning\CSharp\pdfUtils\PdfUtils\Utils\bin\Debug\Utils.exe
 E:\Learning\CSharp\pdfUtils\PdfUtils\Utils\bin\Debug\Utils.pdb
 E:\Learning\CSharp\pdfUtils\PdfUtils\Utils\obj\Debug\Utils.exe
 E:\Learning\CSharp\pdfUtils\PdfUtils\Utils\obj\Debug\Utils.pdb
+E:\MyGit\CSharp\UtilsLibrary\Code\PdfUtils\Utils\bin\Debug\Utils.exe
+E:\MyGit\CSharp\UtilsLibrary\Code\PdfUtils\Utils\bin\Debug\Utils.pdb
+E:\MyGit\CSharp\UtilsLibrary\Code\PdfUtils\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+E:\MyGit\CSharp\UtilsLibrary\Code\PdfUtils\Utils\obj\Debug\Utils.exe
+E:\MyGit\CSharp\UtilsLibrary\Code\PdfUtils\Utils\obj\Debug\Utils.pdb
